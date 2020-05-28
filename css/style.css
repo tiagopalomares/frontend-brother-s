@@ -10,6 +10,10 @@ body {
     color: black;
 }
 
+.brother{
+	margin-top:30px;
+}
+
 .margin {
     padding-top: 30px;
     padding-bottom: 30px;
@@ -17,10 +21,11 @@ body {
 
 .parceiros {
     background-color: #BDBDBD;
-    color: white;
+    color: black;
     padding-bottom: 30px;
 }
-.portifolio {
+
+.servicos {
     background-color: #848484;
     color: white;
     padding-bottom: 30px;
